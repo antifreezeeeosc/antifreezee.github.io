@@ -1,6 +1,6 @@
 @import url("https://antifreezeeeosc.github.io/SFUI-webfont.css");
 :root {
-  --app-font: "Satoshi";
+  --app-font: "San Francisco";
   --app-background: hsl(0,0%,0%);
   --app-foreground: hsl(0,0%,7%);
   --app-card-radius: 8px;
