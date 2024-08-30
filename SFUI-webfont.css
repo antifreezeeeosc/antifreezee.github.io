@@ -5,7 +5,7 @@
 
 /** Ultra Light */
 @font-face {
-  font-family: "San Francisco";
+  font-family: 'San Francisco';
   font-style: normal;
   font-weight: 100;
   font-display: swap;
@@ -15,7 +15,7 @@
 
 /** Thin */
 @font-face {
-  font-family: "San Francisco";
+  font-family: 'San Francisco';
   font-style: normal;
   font-weight: 200;
   font-display: swap;
@@ -25,7 +25,7 @@
 
 /** Regular */
 @font-face {
-  font-family: "San Francisco";
+  font-family: 'San Francisco';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -35,7 +35,7 @@
 
 /** Medium */
 @font-face {
-  font-family: "San Francisco";
+  font-family: 'San Francisco';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -45,7 +45,7 @@
 
 /** Semi Bold */
 @font-face {
-  font-family: "San Francisco";
+  font-family: 'San Francisco';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
@@ -55,7 +55,7 @@
 
 /** Bold */ 
 @font-face {
-  font-family: "San Francisco";
+  font-family: 'San Francisco';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
