@@ -6,7 +6,7 @@
 	--font: 'Montserrat';
 
 	/* top left corner text */
-	--corner-text: 'Midnight';
+	--corner-text: 'antifreezee';
 
 /* change fonts (edit the variables above, not this part) */
 :root {
@@ -35,11 +35,4 @@
 	transform: scaleX(1.2);
 	margin-left: 6px;
 }
-
-/* top bar height */
-[class^='typeWindows'] {
-	height: calc(var(--spacing) + 12px);
-	margin: 0;
-}
-
-
+	
